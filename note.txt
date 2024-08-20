@@ -1,0 +1,24 @@
+Class Bootstrap :
+-align-items-center = vertikal tengah
+-align-items-start = vertikal atas
+-align-items-end = vertikal bawah
+
+justify-content-center = horizontal tengah
+d-flex : mengubah posisi dari sebuah elemen (menjadi sejajar)
+ms : margin start
+    me auto : margin end
+    padding top : py
+    ms : margin start
+    md : ukuran layar (medium)
+    my : margin vertikal (atas bawah)
+    mx : margin horizontal (kanan kiri)
+    mt : margin top (atas)
+    mb : margin bottom (bawah)
+
+    cara pakai : my-1, my-2, my-3, my-4, my-5.
+    ukuran bootstrap 1-5, kalau mau lebih bisa cutome di vanilla css
+
+    container : membungkus
+    row : baris
+    coloumn : bagian
+    lg : large 5 sisa nya 7 dr (12 coloumn)
